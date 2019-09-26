@@ -15,10 +15,11 @@ public class Main {
     axisOfSymmetry = -b/(2*a);
     discriminant = (b*b)-4*(a*c);
     //todo print results
-
-     //todo not in code check results
-
-     //todo initialize scanner and redo the initialize area
+    System.out.println("Axis of symmetry: "+axisOfSymmetry);
+    System.out.println("discriminant: "+discriminant);
+    //todo not in code check results
+        
+        // todo initialize scanner and redo the initialize area
 
       //todo double check results
 
